@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/static/img/logo.png" alt="Solace Agent Mesh Logo" width="100"/>
+  <img src="./docs/static/img/logo.png" alt="Solace Agent Mesh Logo" width="500"/>
 </p>
 <h2 align="center">
   Solace Agent Mesh
